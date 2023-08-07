@@ -61,6 +61,7 @@ ul li{
     list-style: none;
     display:flex;
     font-size:17px;
+    text-align:justify;
     padding:12px 8px 12px 50px;
     user-select:none;
     position: relative;
@@ -72,8 +73,6 @@ ul li::before{
     left: 8px;
     width: 28px;
     height:28px;
-    border-top:solid #c92727;
-    border-right: solid #1c139a;
     border-radius: 90%;
     background-image: url(./assets/unchecked.png);
     background-size: cover;
