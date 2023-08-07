@@ -46,6 +46,7 @@ input{
     padding:10px;
     font-weight:14px;
     text-align: left;
+    outline:none;
     color: whitesmoke;
 }
 button{
