@@ -9,12 +9,12 @@ html,body{
    
 }
 body{
-    background-color: #b46548;
+    /* background-color: #b46548; */
     /* background: linear-gradient(150deg,black,rgb(22, 43, 205),rgb(190, 15, 15)); */
 }
 .container{
     width:100%;
-    /* background: linear-gradient(150deg,black,rgb(22, 43, 205),rgb(190, 15, 15)); */
+    background: linear-gradient(150deg,black,rgb(22, 43, 205),rgb(190, 15, 15));
     padding-top:10px;
 }
 .todo{
