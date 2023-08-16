@@ -17,12 +17,16 @@ body{
     background: linear-gradient(150deg,black,rgb(22, 43, 205),rgb(190, 15, 15));
     padding-top:10px;
 }
+.scroll{
+    height:66.8vh; 
+    overflow-y:scroll;
+}
 .todo{
     width:100%;
     max-width: 540px;
     background: wheat;
-    margin: 100px auto 20px;
-    padding: 40px 30px 70px;
+    margin: 50px auto 20px;
+    padding: 40px 30px 40px;
     border-radius:10px;
 }
 .todo h2{
